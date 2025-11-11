@@ -18,7 +18,7 @@ Features:
 ## Installation
 
 1. Download the plugin ZIP file.
-2. Upload the extracted folder to the /wp-content/plugins/ directory. Run composer install to install required libraries.
+2. Upload the extracted folder to the /wp-content/plugins/ directory. Run composer install inside the api-for-ninja-forms folder to install required libraries.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 4. Generate a REST API key by going to Settings > NF API Keys
 5. Use the endpoints to request data by passing your API key via Authorization: Bearer e.g. https://yourwebsitehere.com/wp-json/nf-submissions/v1/form/2/
